@@ -4,3 +4,4 @@
 Git add
 Git commit
 Git remove
+Git status
