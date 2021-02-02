@@ -6,3 +6,5 @@ Git commit
 Git remove
 Git status
 Git diff
+
+Gitの変更方法を修得します
